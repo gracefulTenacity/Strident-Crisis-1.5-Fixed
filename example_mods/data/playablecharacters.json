@@ -37,10 +37,6 @@
         "kalmpokebam"
       ],
       [
-        "Bambi (Old)",
-        "bambiold"
-      ],
-      [
         "Epitome",
         "epitomeMan"
       ]
@@ -65,11 +61,6 @@
         1,
         1,
         [-100, 0]
-      ],
-      [
-        1,
-        1,
-        false
       ],
       [
         1,
@@ -163,10 +154,6 @@
       [
         "Potent Bambi",
         "potentbambi"
-      ],
-      [
-        "Potent Bambi (Potent 2)",
-        "potentbambismilebitch"
       ]
     ],
     [
@@ -174,11 +161,6 @@
         1,
         1,
         [-100, 0]
-      ],
-      [
-        1,
-        1,
-        false
       ]
     ]
   ],
