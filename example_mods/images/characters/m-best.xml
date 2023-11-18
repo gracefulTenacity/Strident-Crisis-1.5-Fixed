@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="m-best.png"><SubTexture name="m-best left0000" x="0" y="0" width="698" height="983" frameX="0" frameY="0" frameWidth="698" frameHeight="983" />
-<SubTexture name="m-best down0000" x="698" y="0" width="711" height="983" frameX="0" frameY="0" frameWidth="711" frameHeight="983" />
-<SubTexture name="m-best up0000" x="0" y="983" width="651" height="1004" frameX="0" frameY="0" frameWidth="651" frameHeight="1004" />
-<SubTexture name="m-best right0000" x="651" y="983" width="698" height="983" frameX="0" frameY="0" frameWidth="698" frameHeight="983" />
-<SubTexture name="m-best idle0000" x="0" y="1987" width="651" height="1004" frameX="0" frameY="0" frameWidth="651" frameHeight="1004" />
-</TextureAtlas>
