@@ -29,15 +29,6 @@ function noteMiss(direction)
   setProperty('health', getProperty('health') + 0.0025)
   end
 
-local blockEnd = true;
-function onEndSong()
-  if not allowEnd and isStoryMode and not isStoryMode then
-    lmaowindow = false;
-		allowEnd = true;
-  end
-end
-
-
 local angleshit = 2;
 local anglevar = 2;
 function onBeatHit()
