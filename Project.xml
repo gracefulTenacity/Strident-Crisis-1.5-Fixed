@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Strident Crisis" file="Strident Crisis" packageName="com.stridentcrisisdev.stridentcrisis" package="com.stridentcrisisdev.stridentcrisis" main="Main" version="0.2.7" company="Strident Crisis Dev Team" />
+	<app title="Strident Crisis v1.5 Fixed" file="Strident Crisis v1.5 Fixed" packageName="com.stridentcrisisdev.stridentcrisis" package="com.stridentcrisisdev.stridentcrisis" main="Main" version="0.2.7" company="Strident Crisis Dev Team" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
