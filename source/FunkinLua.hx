@@ -6,6 +6,7 @@ import llua.Convert;
 #end
 import openfl.Lib;
 import openfl.system.Capabilities;
+import lime.app.Application;
 import flixel.FlxG;
 import flixel.tweens.FlxTween;
 import flixel.tweens.FlxEase;
